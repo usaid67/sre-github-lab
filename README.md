@@ -72,7 +72,7 @@ displayed status to Complete.
 
 \- Question Q-02: Which device will be used to test NFR-01?
 
-
+Acceptance Criterion
 
 Lab 04 • Page 5
 
